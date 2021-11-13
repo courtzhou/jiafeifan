@@ -1,0 +1,7 @@
+﻿/** 思源黑体-Regular 免费可商用字体
+**/
+@font-face {
+    font-family: "siyuan-r";
+    src: url('siyuan-r.woff2') format("woff2");
+    font-display: swap;
+}
